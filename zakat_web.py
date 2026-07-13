@@ -134,5 +134,3 @@ else:
 
 # Footer
 st.caption("© 2026 - حاسبة زكاة الأسهم | للاستخدام الشخصي")
-Initial commit
-
